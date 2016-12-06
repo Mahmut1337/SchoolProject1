@@ -22,7 +22,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <li class="w3-opennav w3-right w3-hide-large">
       <a class="w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
     </li>
-        <li class="w3-hide-small"><a href="https://www.microsoftstore.com/store/msmea/hr_BA/cat/Office/categoryID.69943700" class="w3-hover-white">Microsoft Office</a></li>
+    <li><img src="http://betanews.com/wp-content/uploads/2022/08/Microsoft-Logo1.jpg" style="width:45px;height:45px;"></li>
     <li><a href="#" class="w3-theme-l1">Home</a></li>
     <li class="w3-hide-small"><a href="https://www.microsoftstore.com/store/msmea/hr_BA/cat/Office/categoryID.69943700" class="w3-hover-white">Microsoft Office</a></li>
     <li class="w3-hide-small"><a href="https://www.microsoftstore.com/store/msusa/en_US/home" class="w3-hover-white">Microsoft Store</a></li>
